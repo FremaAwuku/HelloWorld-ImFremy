@@ -20,11 +20,7 @@ PINK
 *{
   box-sizing: border-box;
 }
-.resumes{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
+
 .res-right{
   margin-left: 1rem;
 }
@@ -1348,4 +1344,10 @@ footer .credits a {
 .col-sm-6.col-md-7{
 
   align-self: center;
+}
+.resumes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #3393ff;
 }

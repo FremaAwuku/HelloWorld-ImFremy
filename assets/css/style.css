@@ -25,6 +25,9 @@ PINK
   flex-direction: row;
   justify-content: space-between;
 }
+.res-right{
+  margin-left: 1rem;
+}
 .resume{
 font-size: 13pt;
 text-align: center;
